@@ -1,2 +1,2 @@
-# community
-PointGoal community
+# PointGoal Community
+Welcome to the PointGoal community!
